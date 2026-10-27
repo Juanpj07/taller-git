@@ -1,2 +1,2 @@
 # taller-git
-Saludos a los del S3B
+Saludos a los del S3BERROR
